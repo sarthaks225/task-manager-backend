@@ -14,6 +14,10 @@ A simple Node.js + Express backend for managing user accounts and tasks, using P
 
 ---
 
+## Entity Relationship Diagram
+
+![ER Diagram](https://github.com/sarthaks225/task-manager-backend/blob/main/assets/readme/ER_Diagram.png?raw=true)
+
 ## Getting Started
 
 ### 1. Clone the Repository
